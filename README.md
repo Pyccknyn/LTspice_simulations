@@ -53,7 +53,7 @@ This repository contains LTspice `.asc` schematics and simulation setups develop
 ## Skills Demonstrated
 
 - Schematic capture and hierarchical design in LTspice  
-- AC, DC, transient, noise, parametric (`.step`), and Monte Carlo simulations  
+- AC, DC, transient, noise, parametric (`.step`), and Worst case simulations  
 - Behavioral source (`B`-element) modeling for custom waveform generation  
 - Interpretation of time-domain and frequency-domain results  
 - Component optimization for performance, stability, and tolerance robustness  
