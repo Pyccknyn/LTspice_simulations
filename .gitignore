@@ -1,0 +1,20 @@
+# Wyniki symulacji LTspice
+*.raw
+*.log
+*.op.raw
+*.fft
+*.fra
+*.noise
+
+# Generowane netlisty
+*.net
+
+# Pliki tymczasowe i kopie zapasowe
+*.bak
+*.tmp
+*.asc~
+*.asy~
+
+# System
+.DS_Store
+Thumbs.dby
